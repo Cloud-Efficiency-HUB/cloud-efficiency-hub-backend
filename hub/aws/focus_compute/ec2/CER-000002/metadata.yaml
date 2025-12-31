@@ -1,0 +1,7 @@
+cer_id: CER-000002
+cloud_provider: aws
+focus_category: focus_compute
+service: ec2
+title: Overprovisioned EC2 Instances
+severity: medium
+status: draft
