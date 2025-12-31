@@ -1,0 +1,2 @@
+cer_id,cloud_provider,focus_category,service,title,summary,severity,status
+CER-000001,aws,focus_compute,ec2,Idle EC2 Instances,Instances running with low utilization,medium,draft
